@@ -1,4 +1,5 @@
 # notes for currency converter app
+ - This has all the styles and resouces needed for currency converter app.
 
 ## api link
 
